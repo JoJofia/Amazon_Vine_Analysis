@@ -30,5 +30,6 @@ The percentage of vine revies were 5 stars was 41.12%, non-Vine reviews percenta
 ![5-stat_review](images/5-star_review.png)
 
 
-##Summary: Base on the result the vine review member have lower number at 248 versus non-vine reviews member at 17514.However, vine reviews member have higher percentage at 41.12% rather non-vine reviews member at 29.43%. That's mean the vine progarm perform a positive bias.
+## Summary
+Base on the result the vine review member have lower number at 248 versus non-vine reviews member at 17514.However, vine reviews member have higher percentage at 41.12% rather non-vine reviews member at 29.43%. That's mean the vine progarm perform a positive bias.
 On the another way, we could analyze vine and non-vine from a subset of the original data. If we split these two datasets might seek any bias in broader data.
